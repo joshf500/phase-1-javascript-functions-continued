@@ -30,5 +30,6 @@ function wrapAdjective(flair){
         }
         return "You are "+flair+part1+flair+"!"
         }
+        
     }
 
